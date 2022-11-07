@@ -1,4 +1,4 @@
-/** @type {import('next').NextConfig} */
+/** @type {import('tailwindcss').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
 }
